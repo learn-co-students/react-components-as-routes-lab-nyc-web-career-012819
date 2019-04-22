@@ -93,7 +93,7 @@ This component should render the text `Actors Page`, and make a new `<div>` for
 each actor. The `<div>` should contain the actor's name and an `<ul>` for each
 of their movies.
 
-## Resources
+## Resources...
 
 [React Router](https://github.com/ReactTraining/react-router)
 [React Router Tutorial](https://reacttraining.com/react-router/web/guides/quick-start)
